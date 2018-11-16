@@ -1,4 +1,4 @@
 # StackExchangeLookupService
 Example of using Stack Exchange API
-https://imgur.com/a/hdhfOTb
-https://imgur.com/a/SousSWz
+![alt tag](https://i.imgur.com/x9G4qLW.jpg) <br />
+![alt tag](https://i.imgur.com/XxE0NxW.jpg) <br />
