@@ -1,0 +1,47 @@
+body {
+    background-color: #F8F8FF;
+}.align-template {
+    text-align: center;
+}
+
+table.horizontal-align th {
+    text-align: center;
+}
+
+thead th {
+    background-color: #337ab7;
+}
+
+tbody td {
+    background-color: #F1F1F1;
+}
+
+/*#serial {*/
+    /*counter-reset: serial-number;  !* Set the serial number counter to 0 *!*/
+/*}*/
+
+/*#serial td:first-child:before {*/
+    /*counter-increment: serial-number;  !* Increment the serial number counter *!*/
+    /*content: counter(serial-number);  !* Display the counter *!*/
+/*}*/
+
+.number {
+    text-align: center;
+}
+
+.quest {
+    position: absolute;
+    margin: auto;
+    top: 30%;
+    left: 40%;
+}
+
+.tablediv {
+    position: absolute;
+    margin: auto;
+    top: 1%;
+    left: 1%;
+    bottom: 1%;
+    right: 1%;
+}
+
